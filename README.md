@@ -19,7 +19,7 @@ Part 2: Getting Started
    
 2.	Create a new branch with the format:
 
-User/<your-name>
+User/ <your-name>
 
 ---
 
